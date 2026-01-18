@@ -22,6 +22,7 @@ Do início ao fim da jornada de dados:
 ## 📂 Conteúdo
 
 ### ![alt text](icons8-book-16.png) Cursos
+- Fundamentos de Business Intelligence (BI)
 - Versionamento de código com Git & GitHub
 - Bancos relacionais e consultas SQL
   - Criando Queries com Funções e Cláusulas de Agrupamento
