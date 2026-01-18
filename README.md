@@ -21,7 +21,6 @@ Do início ao fim da jornada de dados:
 
 ## 📂 Conteúdo
 
-
 ### ![alt text](icons8-book-16.png) Cursos
 - Versionamento de código com Git & GitHub
 - Bancos relacionais e consultas SQL
@@ -45,7 +44,7 @@ Desafios resolvidos.
 
 ## 🎯 Objetivos
 
-Este repositório reúne todos os projetos, exercícios e anotações desenvolvidos durante o Bootcamp com o objetivo de documentar minha jornada de aprendizado, praticar boas práticas de programação e compartilhar conhecimento.
+Este repositório reúne todos os projetos, exercícios e anotações desenvolvidos durante o Bootcamp com o objetivo de documentar minha jornada de aprendizado, treinar boas práticas de programação e compartilhar conhecimento.
 
 Tem o objetivo também de auxiliar na consolidação de habilidades em desenvolvimento de software, versionamento de código e colaboração em projetos reais.
 
